@@ -9,7 +9,7 @@ gem "puma", ">= 5.0"
 # Gemfile
 gem 'rack-cors'
 gem 'bcrypt', '~> 3.1.7'
-gem 'jwt', '~> 2.2'
+gem 'jwt', '~> 2.10'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
